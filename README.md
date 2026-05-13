@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Luis Felipe</h1>
 
 <h3 align="center">
-  Backend Developer | Java · Spring | Foco em Sistemas Financeiros
+  Backend Developer | Java · Spring | Foco em Engenheiro de Software
 </h3>
 
 <p align="center">
@@ -15,15 +15,15 @@
 <h3 align="left">Quem eu sou?</h3>
 
 <p align="left">
-Sou desenvolvedor back-end em formação, focado em Java e Spring. Me interessa o que acontece nos bastidores de um sistema — a lógica, a arquitetura e a regra de negócio. Aprendo quebrando: pego um conceito, viro do avesso, testo nos limites e entendo o <b>porquê</b> da escolha técnica, não só o <b>como</b>.
+Sou desenvolvedor back-end em formação, cursando <b>Análise e Desenvolvimento de Sistemas no Senac (3º semestre)</b>, com foco em Java e Spring. Meu objetivo é me tornar <b>Engenheiro de Software</b> — alguém que não apenas escreve código, mas entende sistemas: a arquitetura, as decisões de design e os trade-offs por trás de cada escolha técnica.
 </p>
 
 <p align="left">
-Antes da tecnologia, atuei em vendas no setor automotivo. Em determinado momento percebi que queria <b>construir o produto</b>, não só entregá-lo — e construir algo que escala, atendendo milhares de pessoas ao mesmo tempo. Foi essa ambição que me trouxe pro back-end.
+Aprendo quebrando: pego um conceito, viro do avesso, testo nos limites e entendo o <b>porquê</b> da escolha, não só o <b>como</b>. Antes da tecnologia, atuei em vendas no setor automotivo. Em determinado momento percebi que queria <b>construir o produto</b>, não só entregá-lo — e construir algo que escala, atendendo milhares de pessoas ao mesmo tempo. Foi essa ambição que me trouxe pro back-end e pra engenharia de software.
 </p>
 
 <p align="left">
-<b>No pessoal:</b> Jogo xadrez — não pela competição, mas pelo exercício de calcular cenários e tomar decisões cirúrgicas. É o raciocínio que tento levar pro código. Também acompanho finanças e o setor financeiro brasileiro de perto, que é onde quero construir carreira.
+<b>No pessoal:</b> Jogo xadrez — não pela competição, mas pelo exercício de calcular cenários e tomar decisões cirúrgicas. É o raciocínio que tento levar pro código.
 </p>
 
 <br/>
