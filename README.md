@@ -23,7 +23,7 @@ Antes da tecnologia, atuei em vendas no setor automotivo. Em determinado momento
 </p>
 
 <p align="left">
-<b>No pessoal:</b> Jogo xadrez — não pela competição, mas pelo exercício de calcular cenários e tomar decisões cirúrgicas. É o raciocínio que tento levar pro código. Também acompanho finanças e o setor financeiro brasileiro de perto, que é onde quero construir carreira.
+<b>No pessoal:</b> Jogo xadrez — não pela competição, mas pelo exercício de calcular cenários e tomar decisões cirúrgicas. É o raciocínio que tento levar pro código. Também acompanho finanças e o setor financeiro brasileiro de perto.
 </p>
 
 <br/>
