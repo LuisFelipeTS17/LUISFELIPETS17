@@ -30,9 +30,9 @@ Antes da tecnologia, atuei em vendas no setor automotivo. Em determinado momento
 
 <h3 align="left">Minha Stack</h3>
 
-| **Back-end & Core** | **Build & Container** | **Databases** | **Tools** |
-|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=java,spring" height="50" alt="Backend" /> | <img src="https://skillicons.dev/icons?i=maven,docker" height="50" alt="Build" /> | <img src="https://skillicons.dev/icons?i=postgres,mysql" height="50" alt="Databases" /> | <img src="https://skillicons.dev/icons?i=git,postman" height="50" alt="Tools" /> |
+| **Back-end & Core** | **Build & Container** | **Databases** | **Front-end** | **Tools** |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=java,spring" height="50" alt="Backend" /> | <img src="https://skillicons.dev/icons?i=maven,docker" height="50" alt="Build" /> | <img src="https://skillicons.dev/icons?i=postgres,mysql" height="50" alt="Databases" /> | <img src="https://skillicons.dev/icons?i=js,css,html" height="50" alt="Front-end" /> | <img src="https://skillicons.dev/icons?i=git,postman" height="50" alt="Tools" /> |
 
 <br/>
 
