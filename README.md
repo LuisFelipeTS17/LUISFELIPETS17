@@ -43,7 +43,7 @@ Aprendo quebrando: pego um conceito, viro do avesso, testo nos limites e entendo
 
 <div align="center">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisFelipeTS17&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com/?user=LuisFelipeTS17&theme=tokyonight&hide_border=true" alt="Streak" />
 </div>
 
 <div align="center">
